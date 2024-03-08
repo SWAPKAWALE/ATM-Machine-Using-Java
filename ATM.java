@@ -56,8 +56,7 @@ public class ATM {
                     depositMoney();
                     break;
                 case 4:
-                    System.out.println("Thank you for using the ATM. 4
-                    bye!");
+                    System.out.println("Thank you for using the ATM bye!");
                     break;
                 default:
                     System.out.println("Invalid choice. Please try again.");
